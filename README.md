@@ -30,7 +30,7 @@
 * **apt upgrade** = Upgrade the system (MAIN UPDATE)<br>
 * **shutdown** = Sets timer for system shutdown (1 Minute)<br>
 * **reboot** = Reboot the system<br>
-* * **exit** = Close the terminal<br>
+* **exit** = Close the terminal<br>
 
 ## Networking:
 
@@ -41,7 +41,7 @@
 
 ## Proxychain (Proxy Server Chain):
 
-* **Proxychain (Command)** = Runs the command in the Proxychain<br>
+* **proxychain (Command)** = Runs the command in the Proxychain<br>
 
 <hr>
 
