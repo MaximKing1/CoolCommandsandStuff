@@ -31,6 +31,7 @@
 **ifconfig** = Shows Network and IP Info<br>
 **netstat -nr** = Shows IP Gateway Info<br>
 **netstat -antp** = Shows Active Connections<br>
+**netstat -ntp** = Shows Active Connections<br>
 
 <hr>
 
