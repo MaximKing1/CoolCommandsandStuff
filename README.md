@@ -56,6 +56,10 @@
 * `-sW` = TCP Window port scan
 * `-Pn` = Disable host discovery. Port scan only
 * `-A` = Enables OS detection, version detection, script scanning, and traceroute
+* `-O` = Remote OS detection using TCP/IP stack fingerprinting
+* `-T{NUMBER}` = Change the number for different speeds. `1, 2` =  Intrusion Detection System evasion, `3` = Slower Scan, `3` = Normal, `4, 5` = Insane
+* `-D` = Send scans from spoofed IPs
+* `-v` = Increase the verbosity level (use -vv or more for greater effect)
 
 <hr>
 
