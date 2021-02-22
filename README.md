@@ -44,8 +44,14 @@
 * **proxychain (Command)** = Runs the command in the Proxychain<br>
 
 ## Nmap
-* **nmap [options] (IP Address)** = Scan IP Address With Options
-* All Options - https://www.stationx.net/nmap-cheat-sheet/
+* **nmap [options] (IP Address)** = Scan IP Address With Options<br>
+* All Options - https://www.stationx.net/nmap-cheat-sheet/<br>
+### Nmap Options Main
+* `-sS` = Stealth Scan
+* `-sA` = TCP ACK port scan
+* `-sW` = TCP Window port scan
+* `-Pn` = Disable host discovery. Port scan only
+* `-A` = Enables OS detection, version detection, script scanning, and traceroute
 
 ## Whois
 * **whois amazon.com** = Shows Whois Info About amazon.com
