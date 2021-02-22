@@ -65,6 +65,8 @@
 * `-sS` = Stealth Scan
 * `-sA` = TCP ACK port scan
 * `-sW` = TCP Window port scan
+* `-sT` = TCP connect port scan
+* `-sU` = UDP port scan
 * `-Pn` = Disable host discovery. Port scan only
 * `-A` = Enables OS detection, version detection, script scanning, and traceroute
 * `-O` = Remote OS detection using TCP/IP stack fingerprinting
