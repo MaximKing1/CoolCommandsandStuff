@@ -29,7 +29,9 @@
 
 ## Networking
 **ifconfig** = Shows Network and IP Info
+**netstat** = Shows IP Gateway Info
 
+<br>
 
 # Windows Commands
 
