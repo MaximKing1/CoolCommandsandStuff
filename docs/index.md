@@ -60,7 +60,8 @@
 
 ## Nmap
 * `nmap [options] (IP Address)` = Scan IP Address With Options<br>
-* All Options - https://www.stationx.net/nmap-cheat-sheet/
+* All Options - https://www.stationx.net/nmap-cheat-sheet/<br>
+
 ### Nmap Options Main
 * `-sS` = Stealth Scan
 * `-sA` = TCP ACK port scan
@@ -74,6 +75,9 @@
 * `-D` = Send scans from spoofed IPs
 * `-v` = Increase the verbosity level (use -vv or more for greater effect)
 * `-F` = Makes the scan go faster
+
+### Nmap Bypass Firewalls
+* Coming Soon!
 
 <hr>
 
