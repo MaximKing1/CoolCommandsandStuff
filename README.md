@@ -68,6 +68,7 @@
 ## Dig (DNS Scanner)
 * `dig --help` = Shows help menu
 * `dig google.com` = Shows the DNS for google.com or any other domain
+* `dig axfr (DOMAIN) @{DNS}` = Would start a zone transfer
 
 ## Whois
 * `whois amazon.com` = Shows Whois Info About amazon.com
