@@ -28,8 +28,8 @@
 **reboot** = Reboot the system<br>
 
 ## Networking
-**ifconfig** = Shows Network and IP Info
-**netstat -nr** = Shows IP Gateway Info
+**ifconfig** = Shows Network and IP Info<br>
+**netstat -nr** = Shows IP Gateway Info<br>
 
 # Windows Commands
 
