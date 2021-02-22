@@ -18,7 +18,7 @@
 **ps** = Show running processes<br>
 **top** = Shows all the processes running on the machine + Shows some system stats<br>
 **uname** = Print system name (man uname)<br>
- - **uname -a** = Prints all the OS Info<br>
+* **uname -a** = Prints all the OS Info<br>
 
 ## System:
 **apt install (Program)** = Install a program<br>
@@ -30,6 +30,7 @@
 ## Networking
 **ifconfig** = Shows Network and IP Info<br>
 **netstat -nr** = Shows IP Gateway Info<br>
+* **netstat -antp** = Shows Active Connections<br>
 
 <hr>
 
