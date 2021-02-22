@@ -53,6 +53,8 @@
 * `-Pn` = Disable host discovery. Port scan only
 * `-A` = Enables OS detection, version detection, script scanning, and traceroute
 
+<hr>
+
 ## Whois
 * **whois amazon.com** = Shows Whois Info About amazon.com
 
