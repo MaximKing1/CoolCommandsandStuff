@@ -1,5 +1,9 @@
 # Linux-Commands
 
+## Tools
+> DNS Scanners = dnsenum, dig
+> Network and Port Scanners = nmap
+
 ## File Commands:
 
 * `locate (WORD)` = Find file with the WORD in it<br>
