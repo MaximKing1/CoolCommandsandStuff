@@ -18,3 +18,19 @@
 ## TCP/UDP
 * `TCP` = The Transmission Control Protocol is one of the main protocols of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol. Therefore, the entire suite is commonly referred to as TCP/IP. Has a 3 way handshake to make sure the files get there and send back a OK responce. `INPORTANT PACKETS`
 * `UDP` Sends the files / packets and will now make sure they have got there. `LESS INPORTANT - Skype, Netflix etc`
+
+## ARP
+* The Address Resolution Protocol is a communication protocol used for discovering the link layer address, such as a MAC address, associated with a given internet layer address, typically an IPv4 address. This mapping is a critical function in the Internet protocol suite. 
+* DDOS, man in the middle attacks etc
+
+## FTP, SFTP, SMTP
+* FTP = File Transfer Protocol
+* SFTP Secure File Transfer Protocol
+* SMTP = Mail Server
+
+## HTTP, HTTPS
+* HTTP = This is less secure method of accessing a website, no data is encrypted
+* HTTPS = Uses SSL or TLS which encrypts the data so no data could be hacked.
+
+## DNS
+* The Domain Name System is a hierarchical and decentralized naming system for computers, services, or other resources connected to the Internet or a private network. It associates various information with domain names assigned to each of the participating entities.
