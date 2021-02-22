@@ -43,9 +43,12 @@
 
 * `proxychain (Command)` = Runs the command in the Proxychain<br>
 
+## theHarvestor
+* `theHarvestor
+
 ## Nmap
 * `nmap [options] (IP Address)` = Scan IP Address With Options<br>
-* All Options - https://www.stationx.net/nmap-cheat-sheet/<br>
+* All Options - https://www.stationx.net/nmap-cheat-sheet/
 ### Nmap Options Main
 * `-sS` = Stealth Scan
 * `-sA` = TCP ACK port scan
