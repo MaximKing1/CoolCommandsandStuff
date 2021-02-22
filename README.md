@@ -70,8 +70,8 @@
 * `dig google.com` = Shows the DNS for google.com or any other domain
 * `dig axfr (DOMAIN) @{DNS}` = Would start a zone transfer
 
-## DNSENUM (DNS THINGY)
-* 
+## DNSENUM (DNS Records Scanner)
+* `dnsenum -h` = Shows Help Menu
 
 ## Whois
 * `whois amazon.com` = Shows Whois Info About amazon.com
