@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Ethical Hacking Toolbelt
 
-You can use the [editor on GitHub](https://github.com/MaximKing1/Hacking-Stuff/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+## Tools
+> DNS Scanners = dnsenum, dig<br>
+> Network and Port Scanners = nmap<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## File Commands:
 
-### Markdown
+* `locate (WORD)` = Find file with the WORD in it<br>
+* `nano FILE` = Text editor for terminal<br>
+* `cat FILE` = open a file<br>
+* `cat word.txt | grep password` = This will search words.txt for the word password<br>
+* `echo john > words.txt` = Replace the word.txt with john<br>
+* `cp FILE DIR` =  Copy the FILE into DIR<br>
+* `mv FILE DIR` =  Move the FILE into DIR<br>
+* `cp FILE FILE2` =  Rename the FILE into FILE2<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## General Commands:
 
-```markdown
-Syntax highlighted code block
+* `history` = Shows last ran commands<br>
+* `man COMMAND` = Shows all options for the COMMAND - Like a help per command<br>
 
-# Header 1
-## Header 2
-### Header 3
+## Terminal Processes & Systems:
 
-- Bulleted
-- List
+* `ps` = Show running processes<br>
+* `top` = Shows all the processes running on the machine + Shows some system stats<br>
+* `uname` = Print system name (man uname)<br>
+* `uname -a` = Prints all the OS Info<br>
 
-1. Numbered
-2. List
+## System:
 
-**Bold** and _Italic_ and `Code` text
+* `apt install (Program)` = Install a program<br>
+* `apt update` = Update the OS<br>
+* `apt upgrade` = Upgrade the system (MAIN UPDATE)<br>
+* `shutdown` = Sets timer for system shutdown (1 Minute)<br>
+* `reboot` = Reboot the system<br>
+* `exit` = Close the terminal<br>
 
-[Link](url) and ![Image](src)
-```
+## Networking:
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MaximKing1/Hacking-Stuff/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* `ifconfig` = Shows Network and IP Info<br>
+* `netstat -nr` = Shows IP Gateway Info<br>
+* `netstat -antp` = Shows Active Connections<br>
+* `netstat -ntp` = Shows Active Connections<br>
