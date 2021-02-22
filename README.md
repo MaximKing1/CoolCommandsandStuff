@@ -65,6 +65,9 @@
 
 <hr>
 
+## Dig (DNS Scanner)
+* `dig --help` = Shows help menu
+
 ## Whois
 * `whois amazon.com` = Shows Whois Info About amazon.com
 
