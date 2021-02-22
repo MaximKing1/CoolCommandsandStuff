@@ -77,7 +77,13 @@
 * `-F` = Makes the scan go faster
 
 ### Nmap Bypass Firewalls
-* Coming Soon!
+
+**Security Rating:**<br>
+⭐⭐⭐ = Very Secure<br>
+⭐⭐ = Secure<br>
+⭐ = Less Secure<br>
+
+* `nmap -sA (IP Address)` = Uses ACK Port Scan (Tricks The Router) (⭐⭐⭐)
 
 <hr>
 
