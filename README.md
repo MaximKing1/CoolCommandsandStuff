@@ -43,6 +43,8 @@
 * `netstat -antp` = Shows Active Connections<br>
 * `netstat -ntp` = Shows Active Connections<br>
 
+# Extensions
+
 ## Proxychain (Proxy Server Chain):
 
 * `proxychain (Command)` = Runs the command in the Proxychain<br>
