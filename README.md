@@ -26,3 +26,6 @@
 **apt upgrade** = Upgrade the system (MAIN UPDATE)<br>
 **shutdown** = Sets timer for system shutdown (1 Minute)<br>
 **reboot** = Reboot the system<br>
+
+## Networking
+**ifconfig** = Shows Network and IP Info
