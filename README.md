@@ -33,6 +33,9 @@
 **netstat -antp** = Shows Active Connections<br>
 **netstat -ntp** = Shows Active Connections<br>
 
+## Proxychain (Proxy Server Chain)
+**Proxychain (Command)** = Runs the command in the Proxychain
+
 <hr>
 
 # Windows Commands
