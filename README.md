@@ -46,6 +46,8 @@
 ## theHarvestor (Search For Emails On a Website)
 * `theHarvestor -h` = Shows theHarvestor Help Menu
 * `theHarvestor -d (DOMAIN)` = theHarvestor Domain Search
+* `theHarvestor -b (SEARCH ENGINE)` = theHarvestor Search Engine
+* `theHarvestor -l (PORT)` = theHarvestor With a Port
 
 ## Nmap
 * `nmap [options] (IP Address)` = Scan IP Address With Options<br>
