@@ -2,7 +2,7 @@
 
 ## File Commands:
 
-**locate (WORD)** = Find file with the WORD in it<br>
+> **locate (WORD)** = Find file with the WORD in it<br>
 **nano FILE** = Text editor for terminal<br>
 **cat FILE** = open a file<br>
 **cat word.txt | grep password** = This will search words.txt for the word password<br>
