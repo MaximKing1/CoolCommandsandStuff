@@ -73,6 +73,7 @@
 ## DNSENUM (DNS Records Scanner)
 * DNSEnum is a command-line tool that automatically identifies basic DNS records such as MX, mail exchange servers, NS, domain name servers, or A—the address record for a domain. It also attempts zone transfers on all identified servers, and it has the ability to attempt reverse resolution (that is, getting the hostname given an IP address) and brute forcing (querying for the existence of hostnames in order to get their IP address) of subdomains and hostnames.
 * `dnsenum -h` = Shows Help Menu
+* `dnsenum google.com` = Checks the DNS for google.com or any domain you choose there
 
 ## Whois
 * `whois amazon.com` = Shows Whois Info About amazon.com
