@@ -29,3 +29,9 @@
 
 ## Networking
 **ifconfig** = Shows Network and IP Info
+
+
+# Windows Commands
+
+## Networking
+**ipconfig** = Shows Network and IP Info
