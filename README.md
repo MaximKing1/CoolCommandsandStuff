@@ -46,6 +46,9 @@
 ## Nmap
 * **nmap [options] (IP Address)** = Scan IP Address With Options
 
+## Whois
+* **whois amazon.com** = Shows Whois Info About amazon.com
+
 <hr>
 
 # Windows Commands
