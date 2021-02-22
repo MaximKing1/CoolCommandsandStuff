@@ -1,8 +1,16 @@
 # Ethical Hacking Toolbelt
 
+# Table Of Contents
+- [General Commands](#general-commands)
+- [Extensions](#extensions)
+- [Metasploit](#metasploit)
+- [Python Scripts](#python-scripts)
+
 ## Tools
 > DNS Scanners = dnsenum, dig<br>
 > Network and Port Scanners = nmap<br>
+
+# General Commands
 
 ## File Commands:
 
@@ -89,8 +97,6 @@
 * `namp --spoof-mac <MAC address> (TARGET)` = Spoof MAC Address (⭐⭐)
 * `nmap --proxies <Comma-separated list of proxy URLs> (TARGET)` = Use Proxy (⭐⭐)
 
-<hr>
-
 ## Dig (DNS Scanner)
 * `dig --help` = Shows help menu
 * `dig google.com` = Shows the DNS for google.com or any other domain
@@ -103,3 +109,6 @@
 
 ## Whois
 * `whois amazon.com` = Shows Whois Info About amazon.com
+
+# Metasploit
+Metasploit is one of the biggest penetration testing frameworks out there, that's why have a entire section dedicated for it! 
