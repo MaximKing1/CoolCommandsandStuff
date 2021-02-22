@@ -43,6 +43,9 @@
 
 * **proxychain (Command)** = Runs the command in the Proxychain<br>
 
+## Nmap
+* **nmap [options] (IP Address)** = Scan IP Address With Options
+
 <hr>
 
 # Windows Commands
