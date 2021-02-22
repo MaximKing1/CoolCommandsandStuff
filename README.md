@@ -71,6 +71,7 @@
 * `dig axfr (DOMAIN) @{DNS}` = Would start a zone transfer
 
 ## DNSENUM (DNS Records Scanner)
+* DNSEnum is a command-line tool that automatically identifies basic DNS records such as MX, mail exchange servers, NS, domain name servers, or A—the address record for a domain. It also attempts zone transfers on all identified servers, and it has the ability to attempt reverse resolution (that is, getting the hostname given an IP address) and brute forcing (querying for the existence of hostnames in order to get their IP address) of subdomains and hostnames.
 * `dnsenum -h` = Shows Help Menu
 
 ## Whois
