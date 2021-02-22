@@ -1,8 +1,8 @@
 # Linux-Commands
 
 ## Tools
-> DNS Scanners = dnsenum, dig
-> Network and Port Scanners = nmap
+> DNS Scanners = dnsenum, dig<br>
+> Network and Port Scanners = nmap<br>
 
 ## File Commands:
 
