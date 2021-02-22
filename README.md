@@ -67,7 +67,7 @@
 
 ## Dig (DNS Scanner)
 * `dig --help` = Shows help menu
-* `dig `
+* `dig google.com` = Shows the DNS for google.com or any other domain
 
 ## Whois
 * `whois amazon.com` = Shows Whois Info About amazon.com
