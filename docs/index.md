@@ -52,7 +52,7 @@
 
 * `proxychain (Command)` = Runs the command in the Proxychain<br>
 
-## theHarvestor (Search For Emails On a Website)
+## theHarvestor (Search For Email Addresses On a Website)
 * `theHarvestor -h` = Shows theHarvestor Help Menu
 * `theHarvestor -d (DOMAIN)` = theHarvestor Domain Search
 * `theHarvestor -b (SEARCH ENGINE)` = theHarvestor Search Engine
@@ -83,7 +83,11 @@
 ⭐⭐ = Secure<br>
 ⭐ = Less Secure<br>
 
-* `nmap -sA (IP Address)` = Uses ACK Port Scan (Tricks The Router) (⭐⭐⭐)
+* `nmap -sA (TARGET)` = Uses ACK Port Scan (Tricks The Router) (⭐⭐⭐)
+* `nmap --script firewall-bypass (TARGET)` = Uses a script to bypass firewall (⭐⭐) [Source Code (nmap site)](https://nmap.org/nsedoc/scripts/firewall-bypass.html)
+* `nmap -S <IP_Address> (TARGET)` = Spoof Source Address (⭐⭐⭐)
+* `namp --spoof-mac <MAC address> (TARGET)` = Spoof MAC Address (⭐⭐)
+* `nmap --proxies <Comma-separated list of proxy URLs> (TARGET)` = Use Proxy (⭐⭐)
 
 <hr>
 
