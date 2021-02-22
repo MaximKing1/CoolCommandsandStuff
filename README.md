@@ -34,7 +34,7 @@
 **netstat -ntp** = Shows Active Connections<br>
 
 ## Proxychain (Proxy Server Chain)
-**Proxychain (Command)** = Runs the command in the Proxychain
+**Proxychain (Command)** = Runs the command in the Proxychain<br>
 
 <hr>
 
