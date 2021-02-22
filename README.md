@@ -45,6 +45,9 @@
 
 # Extensions
 
+## Commands:
+* `nslookup (Domain / IP)` = Shows name of IP Address
+
 ## Proxychain (Proxy Server Chain):
 
 * `proxychain (Command)` = Runs the command in the Proxychain<br>
