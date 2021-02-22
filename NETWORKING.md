@@ -11,3 +11,10 @@
 ## Mac Address
 * The MAC Address is the psyical address of the device
 * use `ifconfig` to get your MAC Address
+
+## Router
+* The router is a piece of Network Hardware which allows you to communicate with the internet using your local devices
+
+## TCP/UDP
+* `TCP` = The Transmission Control Protocol is one of the main protocols of the Internet protocol suite. It originated in the initial network implementation in which it complemented the Internet Protocol. Therefore, the entire suite is commonly referred to as TCP/IP. Has a 3 way handshake to make sure the files get there and send back a OK responce. `INPORTANT PACKETS`
+* `UDP` Sends the files / packets and will now make sure they have got there. `LESS INPORTANT - Skype, Netflix etc`
