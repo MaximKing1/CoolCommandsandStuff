@@ -2,7 +2,11 @@
 
 # Table Of Contents
 - [General Commands](#general-commands)
-- [Extensions](#extensions)
+- [Extensions](#extensions)<br>
+= - [Proxychain](#proxychain)<br>
+= - [theHarvestor](#theharvestor)<br>
+= - [Nmap](#nmap)<br>
+= - [DNSENUM](#DNSENUM)<br>
 - [Metasploit](#metasploit)
 - [Python Scripts](#python-scripts)
 
@@ -56,11 +60,12 @@
 ## Commands:
 * `nslookup (Domain / IP)` = Shows name of IP Address
 
-## Proxychain (Proxy Server Chain):
-
+## Proxychain
+(Proxy Server Chain)
 * `proxychain (Command)` = Runs the command in the Proxychain<br>
 
-## theHarvestor (Search For Email Addresses On a Website)
+## theHarvestor
+(Search For Email Addresses On a Website)
 * `theHarvestor -h` = Shows theHarvestor Help Menu
 * `theHarvestor -d (DOMAIN)` = theHarvestor Domain Search
 * `theHarvestor -b (SEARCH ENGINE)` = theHarvestor Search Engine
@@ -114,7 +119,8 @@ Use For Second Party Scanning.
 * `dig google.com` = Shows the DNS for google.com or any other domain
 * `dig axfr (DOMAIN) @{DNS}` = Would start a zone transfer
 
-## DNSENUM (DNS Records Scanner)
+## DNSENUM
+(DNS Records Scanner)
 * DNSEnum is a command-line tool that automatically identifies basic DNS records such as MX, mail exchange servers, NS, domain name servers, or A—the address record for a domain. It also attempts zone transfers on all identified servers, and it has the ability to attempt reverse resolution (that is, getting the hostname given an IP address) and brute forcing (querying for the existence of hostnames in order to get their IP address) of subdomains and hostnames.
 * `dnsenum -h` = Shows Help Menu
 * `dnsenum google.com` = Checks the DNS for google.com or any domain you choose there
