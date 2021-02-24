@@ -106,6 +106,9 @@ First to get to our scripts do `cd /usr/share/nmap/scripts`<br>
 * `nmap --script firewall-bypass (TARGET)` = Uses a script to bypass firewall (⭐⭐) [Source Code (nmap site)](https://nmap.org/nsedoc/scripts/firewall-bypass.html)
 * `nmap -sV --script=vulscan/vulscan.nse www.example.com` = https://github.com/scipag/vulscan Best Vuln Scan
 
+## amap (Second Party Scanner)
+Use For Second Party Scanning.
+
 ## Dig (DNS Scanner)
 * `dig --help` = Shows help menu
 * `dig google.com` = Shows the DNS for google.com or any other domain
