@@ -43,6 +43,11 @@
 * `netstat -antp` = Shows Active Connections<br>
 * `netstat -ntp` = Shows Active Connections<br>
 
+## Root Dir
+
+* `bin` = Has System Commands In
+* `sbin` = Has Sudo Commands In
+
 # Extensions
 
 ## Commands:
